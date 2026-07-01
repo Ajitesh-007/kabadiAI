@@ -1,0 +1,40 @@
+# Python / Environment
+kabadiai_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets
+.env
+.env.local
+firebase_key.json
+*.pem
+
+# YOLO / Ultralytics
+runs/
+yolo11n.pt
+*.avi
+*.mp4
+
+# Flutter / Dart
+kabadiai_app/.dart_tool/
+kabadiai_app/.flutter-plugins
+kabadiai_app/.flutter-plugins-dependencies
+kabadiai_app/.packages
+kabadiai_app/build/
+kabadiai_app/linux/flutter/generated_plugin_registrant.cc
+kabadiai_app/linux/flutter/ephemeral/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
