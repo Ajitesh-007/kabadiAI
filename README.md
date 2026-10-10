@@ -1,6 +1,6 @@
 # ♻️ KabadiAI
 
-KabadiAI is an AI-powered waste management platform built for the Samsung Innovate Hackathon. It connects households, local scrap collectors (*kabadiwallas*), and municipal authorities to make recycling easier and more efficient.
+KabadiAI is an AI-powered waste management platform . It connects households, local scrap collectors (*kabadiwallas*), and municipal authorities to make recycling easier and more efficient.
 
 ## ✨ What it does
 
